@@ -79,7 +79,7 @@ float: left;
 }
 
 .wrapper #ytplayer{
-  position:absolute;
-  top:-180%;
+  position:relative;
+  top:-170%;
   left:-5%;
 }
